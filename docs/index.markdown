@@ -1,0 +1,73 @@
+---
+layout: page
+title: Overview
+permalink: /
+weight: 1
+---
+
+<div style="text-align: center; display: flex; width: 100%; justify-content: space-evenly; align-items: center; gap: 1em; padding: 2em">
+  <img style="width: 40%;" src="https://github.com/Open-Finance-Lab/SecureFinAI_Contest_2026/blob/main/docs/assets/logos/ieee-logo.png?raw=true" alt="IEEE Logo">
+  <img style="width: 30%;" src="https://github.com/Open-Finance-Lab/SecureFinAI_Contest_2026/blob/main/docs/assets/logos/securefinai_cu.png?raw=true" alt="SecureFinAI Lab Logo">
+</div>
+
+### Thanks to the AI4Finance Foundation open source community for their support.
+
+
+
+## Introduction
+
+As AI continues to advance at a fast pace, more FinAI agents are being developed for the finance sector, such as FinRL trading agents [1,2,3], FinGPT agents [4,5] with multimodal capabilities [6], and regulatory reporting agents [7]. The **Secure FinAI Contest 2026** encourages the development of FinAI agents based on the frameworks FinRL [2,3] and FinGPT [4].
+
+
+We design four tasks. These challenges allow contestants to participate in various financial tasks and contribute to secure finance using state-of-the-art technologies with privacy-preserving and verifiable computation frameworks. We welcome students, researchers, and engineers who are passionate about finance, machine learning, and security to partake in the contest.
+
+## Tasks
+Each team can choose to participate in one or more tasks. The prizes will be awarded for each task.
+
+### Task I: TBD
+
+
+
+### Task II: TBD
+
+
+### Task III：TBD
+
+### Task IV：TBD
+
+
+<p style="font-size: 14px;">
+[1] Wang, Keyi, et al. "FinRL Contests: Data‐Driven Financial Reinforcement Learning Agents for Stock and Crypto Trading." <em>Artificial Intelligence for Engineering</em> (2025). [<a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/aie2.12004">IET</a>] [<a href="https://arxiv.org/abs/2504.02281">arXiv</a>]
+</p>
+<p style="font-size: 14px;">
+[2] Liu, Xiao-Yang, et al. "Finrl-meta: Market environments and benchmarks for data-driven financial reinforcement learning." <em>Advances in Neural Information Processing Systems</em> 35 (2022): 1835-1849. [<a href="https://papers.neurips.cc/paper_files/paper/2022/file/0bf54b80686d2c4dc0808c2e98d430f7-Paper-Datasets_and_Benchmarks.pdf">NeurIPS</a>]
+</p>
+<p style="font-size: 14px;">
+[3] Liu, Xiao-Yang, et al. "FinRL: A deep reinforcement learning library for automated stock trading in quantitative finance." <em>arXiv preprint</em> arXiv:2011.09607 (2020). [<a href="https://arxiv.org/abs/2011.09607">arXiv</a>] [<a href="https://neurips.cc/virtual/2020/19841">NeurIPS 2020</a>]
+</p>
+<p style="font-size: 14px;">
+[4] Liu, Xiao-Yang, et al. "Fingpt: Democratizing internet-scale data for financial large language models." <em>arXiv preprint</em> arXiv:2307.10485 (2023). [<a href="https://arxiv.org/abs/2307.10485">arXiv</a>]
+</p>
+<p style="font-size: 14px;">
+[5] Tian, Felix, et al. "Customized fingpt search agents using foundation models." <em>Proceedings of the 5th ACM International Conference on AI in Finance</em>. 2024. [<a href="https://dl.acm.org/doi/10.1145/3677052.3698637">ACM</a>]
+</p>
+<p style="font-size: 14px;">
+[6] Yanglet, Xiao-Yang Liu, Yupeng Cao, and Li Deng. "Multimodal financial foundation models (mffms): Progress, prospects, and challenges." <em>arXiv preprint</em> arXiv:2506.01973 (2025). [<a href="https://www.arxiv.org/abs/2506.01973">arXiv</a>]
+</p>
+<p style="font-size: 14px;">
+[7] Han, Shijie, et al. "Xbrl agent: Leveraging large language models for financial report analysis." <em>Proceedings of the 5th ACM International Conference on AI in Finance</em>. 2024. [<a href="https://dl.acm.org/doi/abs/10.1145/3677052.3698614">ACM</a>]
+</p>
+<p style="font-size: 14px;">
+[8] Peng, Xueqing, et al. "MultiFinBen: A Multilingual, Multimodal, and Difficulty-Aware Benchmark for Financial LLM Evaluation." <em>arXiv preprint</em> arXiv:2506.14028 (2025). [<a href="https://arxiv.org/abs/2506.14028">arXiv</a>]
+</p>
+
+
+## Contact
+Contact email: [finrlcontest@gmail.com](mailto:finrlcontest@gmail.com)
+
+Contestants can communicate any questions on 
+* [Discord](https://discord.gg/dJY5cKzmkv).
+
+
+
+
