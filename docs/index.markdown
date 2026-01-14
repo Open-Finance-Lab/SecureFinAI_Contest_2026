@@ -62,7 +62,7 @@ This task tests the ability of Large Language Models to act as Venture Capitalis
 </p>
 <p style="font-size: 14px;">
 [4] Lin, Shengyuan, et al. "Evaluation and Benchmarking Suite for Financial Large Language Models and Agents." NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling. [<a href="https://openreview.net/pdf?id=sSY4h3MFUB">NeurIPS 2025 Workshop</a>]
-
+</p>
 
 ## Contact
 Contact email: [finrlcontest@gmail.com](mailto:finrlcontest@gmail.com)
