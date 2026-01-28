@@ -1,19 +1,8 @@
-# Task II: Financial Search Agent Accuracy & Reliability
+# Task II: Reliable Agentic FinSearch
 
 **Description**
-This task challenges participants to develop "Agentic" financial search engines that minimize hallucinations and maximize numerical and temporal accuracy. The evaluation is split into two rigorous sub-challenges:
+This task benchmarks the reliability of financial search agents, specifically focusing on eliminating hallucinations and ensuring numerical precision. Participants are expected to finetune models and design agent pipelines that will be evaluated on their ability to retrieve and process financial data without errors.
 
-**1. Hallucination & Misinformation (35 Questions)**
-Focuses on the agent's ability to provide factually correct information across 6 specific dimensions validated against **Yahoo Finance**:
-*   Real-time market data
-*   Basic Facts of Stocks
-*   Trading-related Calculations
-*   Company Fundamentals
-*   Cross-Asset Comparison
-*   News, Events & Disclosures
-
-**2. Numerical & Temporal Accuracy (24 Questions)**
-Evaluates precision in handling time-sensitive data, benchmarked against **FinSearchComp** standards. This includes three difficulty levels:
-*   **Real-time retrieval**: 8 questions on live data accuracy.
-*   **Historical data lookup**: 8 questions on retrieving past data points.
-*   **Complex computations**: 8 questions requiring multi-step math on historical data.
+**Datasets**
+*   **The FinSearchComp benchmark** consists of 635 financial questions (e.g., “What was the annual inflation rate in Australia in 2022?”) paired with their ground-truth answers (e.g., “6.6%,” allowing for minor rounding errors). These questions are designed to evaluate an agent’s proficiency of searching and reasoning in terms of numerical and temporal accuracy. The benchmark covers three types of tasks: (1) real-time retrieval of numerical data (Task 1), (2) simple lookup of historical data (Task 2), and (3) complex computation over historical data (Task 3). The dataset includes 244 questions for Task 1, 219 for Task 2, and 172 for Task 3.
+*   **Dataset Link**: [HuggingFace - FinSearchComp](https://huggingface.co/datasets/ByteSeedXpert/FinSearchComp)
